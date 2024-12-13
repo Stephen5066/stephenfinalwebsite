@@ -16,4 +16,4 @@ OpenAI offeres both free and paid plans. Each user gets a limited amount of toke
 
 OpenAI can be a great resource to all kinds of people.  Whether you need help with homework, or you have general quesitons about something you are working on like research,  if you just want to talk to AI about practically anything, or if you want a picture to be generated we can do that too. 
 
-![FAQ](<faq.png>)
+![FAQ Photo](<new faq.png>)
