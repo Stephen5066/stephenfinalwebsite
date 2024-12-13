@@ -29,4 +29,4 @@ We know that AI can create text, but it can also create solutions to coding issu
 
 AI platforms such as **ChatGPT** excel at creating conversation. You can speak with **ChatGPT** or similar resources in different languages, and something unique about this resource is that these AI platforms can remeber everything from previous questions and answers.
 
-![ai robot](../_site/assets/images/img1.jpg)
+![AI Robot](https://github.com/Stephen5066/stephenfinalwebsite/blob/gh-pages/andrea-de-santis-zwd435-ewb4-unsplash.jpg)

@@ -22,4 +22,4 @@ Once you open the playground you can select a model you want to use by clicking 
 
 Once you select the version you like you are good to go to ask whatever you like to the AI. Once you ask or say something to it you will get an answer. Don't like what it said tweak your previous reponse or question to be more specific on what you are looking for.
 
-![question mark](_site/assets/images/img2.jpg)
+![Question Mark](https://github.com/Stephen5066/stephenfinalwebsite/blob/gh-pages/jon-tyson-hhq1Lxtuwd8-unsplash.jpg)
