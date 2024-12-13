@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "How to use OpenAI Playground"
 date:   2024-12-12 23:00:05 -0500
 categories: jekyll update
