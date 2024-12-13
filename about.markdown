@@ -4,7 +4,7 @@ title: FAQs
 permalink: /faq/
 ---
 
-### 1.  ** Is OpenAI Safe?**
+### 1.  **Is OpenAI Safe?**
 
 OpenAI is a safe platform and focuses on preventing any negative or harmful outputs.
 
