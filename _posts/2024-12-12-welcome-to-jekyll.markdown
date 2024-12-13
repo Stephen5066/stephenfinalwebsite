@@ -3,6 +3,7 @@ layout: post
 title:  "Intro to OpenAI Playground"
 date:   2024-12-12 23:00:05 -0500
 categories: jekyll update
+image: /assets/images/image1.jpg
 ---
 OpenAI Playground is an artificial intelligence (AI) company that focuses its efforts on creating AI that is safe, clear, and concise.
 
@@ -27,3 +28,4 @@ We know that AI can create text, but it can also create solutions to coding issu
 ### 3. Interactive Conversations
 
 AI platforms such as **ChatGPT** excel at creating conversation. You can speak with **ChatGPT** or similar resources in different languages, and something unique about this resource is that these AI platforms can remeber everything from previous questions and answers.
+
