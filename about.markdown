@@ -1,18 +1,17 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: FAQs
+permalink: /faq/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### 1.  ** Is OpenAI Safe?**
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+OpenAI is a safe platform and focuses on preventing any negative or harmful outputs.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### 2. **How Much Does it Cost to use OpenAI?**
 
+OpenAI offeres both free and paid plans. Each user gets a limited amount of tokens each month they can use, but if you need more and run out you can buy additional tokens. Prices can vary whether you are using **GPT-3** or **GPT-4**.
 
-[jekyll-organization]: https://github.com/jekyll
+### 3. **Why use Open AI**
+
+OpenAI can be a great resource to all kinds of people.  Whether you need help with homework, or you have general quesitons about something you are working on like research,  if you just want to talk to AI about practically anything, or if you want a picture to be generated we can do that too. 
