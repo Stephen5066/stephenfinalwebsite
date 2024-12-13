@@ -1,0 +1,3 @@
+## Still need Help
+
+This page is for those who still have questions of anything related to OpenAI and what there is to offer.  Here is a video that provides beginners with anything they need when it comes to using AI it is linked here [OpenAI Tutorial](https://www.youtube.com/watch?v=iwYtzPJELkk).  Still have questions check the bottom of each page for my email, and email me any questions you still have about OpenAI Playground.
